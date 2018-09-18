@@ -1,2 +1,2 @@
 # foreignComponents
-Sumodule contains react components
+Submodule contains react components
