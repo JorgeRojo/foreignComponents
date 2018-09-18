@@ -6,6 +6,7 @@ function ModuleTest(props) {
     return (
         <div styleName="wrapper">
             <p>This is my foreign module</p>
+            <p>This is a new change into my component</p>
         </div>
     );
 }
