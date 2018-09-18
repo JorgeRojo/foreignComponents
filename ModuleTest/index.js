@@ -7,6 +7,7 @@ function ModuleTest(props) {
         <div styleName="wrapper">
             <p>This is my foreign module</p>
             <p>This is a new change into my component</p>
+            <p>Addin new change alone</p>
         </div>
     );
 }
