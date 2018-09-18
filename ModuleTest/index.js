@@ -5,9 +5,7 @@ import styles from './styles.scss';
 function ModuleTest(props) {    
     return (
         <div styleName="wrapper">
-            <p>This is my foreign module</p>
-            <p>This is a new change into my component</p>
-            <p>Addin new change alone</p>
+            <p>This is my foreign module las change</p>
         </div>
     );
 }
